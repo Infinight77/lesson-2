@@ -1,7 +1,7 @@
 # lesson-2
 # Домашнее задание к уроку номер 2
 
-https://infinight77.github.io/lesson-2/
+https://infinight77.github.io/index.html/
 
 ### Верстаем макет 
 
