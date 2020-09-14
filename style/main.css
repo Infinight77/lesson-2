@@ -1,3 +1,78 @@
+.container{
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans';
+
+}
+header {
+    padding: 107px 0 40px;
+}
+
 h1 {
-    color: green
+    font-family: 'Raleway';
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #212121;
+}
+
+hr{
+    width: 64px;
+    height: 2px;
+    margin: 30px auto;
+    background: #FF8B38;
+    border: none;
+}
+
+
+
+h4 {
+    color: #86878B;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+main {
+    padding: 40px 0 107px;
+    font-size: 0;
+}
+
+.card {
+    display: inline-block;
+    width: 350px;
+    margin: 0 16px;
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+h2 {
+    margin: 29px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #86878B;
+}
+
+.lamp_image {
+    background: url(../images/lamp_image.png) no-repeat center center;
+}
+
+.keyboard_image {
+    background: url(../images/keyboard_image.png) no-repeat center center;
+}
+
+.lightning_image {
+    background: url(../images/lightning_image.png) no-repeat center center;
 }
